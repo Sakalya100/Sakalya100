@@ -1,4 +1,5 @@
-##Hello Everyone
+## *Hello Everyone*
+
 I am Sakalya Mitra. 
 I am a Undergraduate student in VIT Bhopal &#127891; studying &#10002; Artificial Intelligence. 
 I am a versatile person who loves to learn about all new technologies and make my hands dirty on them. I am a Competitive Coder and Open Source Enthusiast. Apart from these I like to edit videos &#127910; , click photo and &#128221; write content.
