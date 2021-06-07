@@ -1,4 +1,4 @@
-## *Hello Everyone*
+## *Hello Everyone* :wave:
 
 I am Sakalya Mitra. 
 I am a Undergraduate student in VIT Bhopal &#127891; studying &#10002; Artificial Intelligence. 
