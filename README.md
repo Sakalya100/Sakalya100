@@ -16,9 +16,10 @@ _______________________
 
 I write blogs on current topics of emerging technologies and sometimes deviate that with some unknown genres.
 
-Visit my [Medium_Profile][1] to Read some Interesting blogs.
+Visit my [Medium Profile][1] to Read some Interesting blogs.
 
 [1]:https://sakalyamitra.medium.com/ "Profile"
+
 
 <!-- Actual text -->
 
@@ -36,3 +37,7 @@ You can find me on
 
 [1]: https://twitter.com/MitraSakalya
 [2]: https://www.linkedin.com/in/sakalya-mitra-9aa3861b1/
+
+
+![Sakalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakalya100&show_icons=true&theme=radical)
+
