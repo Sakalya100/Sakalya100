@@ -39,5 +39,9 @@ You can find me on
 [2]: https://www.linkedin.com/in/sakalya-mitra-9aa3861b1/
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakalya100&layout=compact)](https://github.com/Sakalya100/github-readme-stats)
+
+
+
 ![Sakalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakalya100&show_icons=true&theme=radical)
 
