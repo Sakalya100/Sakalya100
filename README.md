@@ -42,6 +42,18 @@ You can find me on
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakalya100&layout=compact)](https://github.com/Sakalya100/github-readme-stats)
 
 
+## My Statistics
 
-![Sakalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakalya100&show_icons=true&theme=radical)
+<br/>
+<p align="left">
+  <a href="https://sakalyamitra.me/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sakalya100&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakalya100&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Sakalya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sakalya100&custom_title=Sakalya's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://sakalyamitra.me/)
+
+------
 
