@@ -61,7 +61,7 @@
 <br/>
 <p align="left">
   <a href="https://sakalyamitra.me/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sakalya100&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sakalya100&show_icons=true&theme=gruvbox&hide_border=true&&include_all_commits=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakalya100&theme=gruvbox&hide_border=true" />
   </a>
 </p>
