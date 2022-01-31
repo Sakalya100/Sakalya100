@@ -18,7 +18,21 @@
 - 📫 How to reach me **sakalyamitra@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Achievements:</h3>
+
+- GitHub Campus Expert
+
+- Open Source Contributor(GsSoC,LGMSoC,GWoC,SWoC,OpenForce)
+
+- Competitve Programmer(3🌟 CodeChef, 3🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
+
+  - January Challenge 2021 Division 3(CodeChef)
+
+- Exploring DSA
+
+- 3rd Place WCE Hackathon
+
+- AWS ML Scholar'21
 
 
 <h3 align="left">Connect with me:</h3>
