@@ -1,62 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sakalya Mitra</h1>
-<h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+
+<h3><i>Spare some time to take a look at my <a href="https://www.linkedin.com/in/sakalya-mitra/">portfolio</a>!</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakalya100&label=Profile%20views&color=0e75b6&style=flat" alt="sakalya100" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sakalyam" target="blank"><img src="https://img.shields.io/twitter/follow/sakalyam?logo=twitter&style=for-the-badge" alt="sakalyam" /></a> </p>
+<a href="https://www.linkedin.com/in/sakalya-mitra/"><img src="https://github.com/Sakalya100/mlh-init/blob/master/animation_500_kxa883sd.gif" align="right" height="300"></a>
 
+# About myself
 
-<p><img align="right" src="https://github.com/Sakalya100/mlh-init/blob/master/animation_500_kxa883sd.gif" alt="Sakalya100" /></p>
+A passionate individual who loves playing with data, demitsifying data secrets and modelling ML applications to predict whats data.I am a developer and table tennis player and sppedcuber by passion, an engineer by profession and a photographer by interest.
 
+My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 
-- 🌱 I’m currently learning **Machine Learning and exploring the mathematical concepts in depth**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sakalya100](https://github.com/Sakalya100)
-
-- 💬 Ask me about **AI,ML,Deep Learning**
-
-- 📫 How to reach me **sakalyamitra@gmail.com**
-
-
-<h3 align="left">Achievements:</h3>
-
-- GitHub Campus Expert
-
-- Open Source Contributor(GsSoC,LGMSoC,GWoC,SWoC,OpenForce)
-
-- Competitve Programmer(3🌟 CodeChef, 3🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
-
-  - January Challenge 2021 Division 3(CodeChef)
-
-- Exploring DSA
-
-- 3rd Place WCE Hackathon
-
-- AWS ML Scholar'21
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sakalyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakalyam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sakalya-mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakalya-mitra" height="30" width="40" /></a>
-<a href="https://medium.com/@sakalyamitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sakalyamitra" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sakalya_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sakalya_123" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sakalya_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sakalya_123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rayson21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rayson21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sakalyamitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sakalyamitra" height="30" width="40" /></a>
-<a href="https://discord.gg/3722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3722" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakalya100&show_icons=true&locale=en&layout=compact" alt="sakalya100" /></p>
-
-
-
-## My Statistics
-
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=sakalya_123&theme=forest&font=Georgia)
+# My Stats
 
 <br/>
 <p align="left">
@@ -65,9 +21,129 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakalya100&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-<br>
 
-[![Sakalya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sakalya100&custom_title=Sakalya's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://sakalyamitra.me/)
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sakalya100&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" align="center">
+</p>
+<p align="left">
+  <img width="50%" src="https://leetcode.card.workers.dev/?username=sakalya_123&theme=forest&font=Georgia" />
+    <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakalya100&show_icons=true&locale=en&layout=compact"  alt="Sakalya100"/>
+</p>
 
-------
+
+## Recent Activity
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [Sakalya100/JS-Tutorial](https://github.com/Sakalya100/js-tutorial-codes)
+2. 🎉 Merged PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
+3. 💪 Opened PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
+4. ⭐ Starred [snehil03july/mathpy](https://github.com/snehil03july/mathpy)
+5. 💪 Opened PR [#1085](https://github.com/Midway91/HactoberFest2023/pull/1085) in [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Monday, December 4th, 2023, 1:47:21 AM
+<!--RECENT_ACTIVITY:last_update_end-->
+
+
+# Education
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>Integrated MTech in Computer Science Engineering Specialization in AI & ML</td>
+    <td><a href="https://vitbhopal.ac.in/">VIT Bhopal University</a></td>
+    <td>2025</td>
+    <td>9.61 CGPA (till 7th Semester)</td>
+  </tr>
+  <tr>
+    <td>Higher Secondary Certification</td>
+    <td><a href="https://baligunge.kvs.ac.in/">Kendriya Vidyalaya Ballygunge, Kolkata</a></td>
+    <td>2020</td>
+    <td>95.6%</td>
+  </tr>
+  <tr>
+    <td>Secondary School Certification</td>
+    <td><a href="https://baligunge.kvs.ac.in/">Kendriya Vidyalaya Ballygunge, Kolkata</a></td>
+    <td>2018</td>
+    <td>96.6%</td>
+  </tr>
+ </table>
+
+# Experience
+- [Scaler by InterviewBit](https://www.scaler.com/)
+  - <b>Data Science Intern</b> - <b>July 2022 - Present</b>
+- [Sivi (Previously Speakify)](https://www.mysivi.ai/) - <b>AI/ML Intern</b> - <b>July 2022 - August 2022</b>
+
+
+# Positions of Responsibility
+
+- [GitHub Campus Expert](https://education.github.com/experts)
+  - <b>Campus Lead</b> - <b>February 2021 - Present</b>
+
+# Projects
+
+- [PhysicsBuddy - Your own pdf Chatbot](https://github.com/Sakalya100/Chatbot-using-Langchain)
+- [WhatsApp Chat Analyzer](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp)
+
+
+# Tech Stack
+
+### Front End
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+
+### Back End
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B">
+
+### Deployment Platforms
+
+<img src="https://img.shields.io/badge/AWS-f79201?style=for-the-badge&logo=amazon&logoColor=white"> <img src="https://img.shields.io/badge/HEROKU-4285f4?style=for-the-badge&logo=google&logoColor=white">
+
+
+# Licences and Certifications
+
+
+# Skills
+
+- Machine Learning (Classification and Regression)
+- Speedcuber (Can solve 10+ rubik's cube)
+- Photography
+- Operation Systems: Windows, Linux
+- Softwares
+
+# Achievements
+- Google Hashcode 2022 – AIR 464, Global Rank – 1647. [Certificate](https://drive.google.com/file/d/19KeI9IZ-FD8zFstPC2a_wKC8YznBDtw6/view)
+- Flipkart Grid 5.0 Qualified Level 1.1 - Among Top 16000 Teams out of 4 lakh + Participants. [Certificate](https://drive.google.com/file/d/1ZFUTZHP87MPV5W_xxqr5qoNhKdruLGt1/view)
+- Leetcode Weekly Contest 350 Global Rank 1469, Biweekly Contest 112 Global Rank 1132.
+- Runner-Up in BPlan Competition held at IIT Kharagpur among 5,000 Teams. [Certificate](https://drive.google.com/file/d/103oPe8bchwCA1T2E-8KE16FL-yO2pjjg/view)
+- Runner-UP in ML Sprint by Data Science Club, VIT Bhopal. [Certificate](https://drive.google.com/file/d/14lbnHlgnU7wVlvLyxJg9s8xx3QWIP9w2/view)
+- Runner-Up in WCE Hackathon
+- Book Chapter in IGI Global Accepted for Publication. [Link](https://www.igi-global.com/book/assisted-special-education-students-exceptional/322091)
+- India Rank 495 in Analytics track and finished among the Top 2%(percentile) in ESAT
+- Completed 30 Days of Google Cloud (2 Tracks, 11 Quests) [Profile](https://www.cloudskillsboost.google/public_profiles/0d8c7974-ec1e-4de2-a670-a622862bb5a9)
+  
+# Languages
+- <strong>Full professional proficiency:</strong> English, Hindi, Bengali
+
+# Quick Links
+
+<a href="https://www.linkedin.com/in/sakalya-mitra/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1Nz-lEEgYgSKnOTPbYz5gD_L-H4OSi0ck/view?usp=sharing"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
+<a href="mailto:sakalyamitra@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/sakalya21/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sakalya_mitra"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
+
+# Support Me
+
+If you like the value I provide and want to support, maybe consider buying me a book so that I can work more on my skills and produce more value added content 🙌
+<br><br>
+<a href="https://www.buymeacoffee.com/sakalya.mitra"><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=anirudhbelwadi&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
 
