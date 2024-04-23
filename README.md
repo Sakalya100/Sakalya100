@@ -1,7 +1,7 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 ![gitartwork](gitartwork.svg)
 
-<h3><i>Spare some time to take a look at my <a href="https://www.linkedin.com/in/sakalya-mitra/">portfolio</a>!</i></h3>
+<h3><i>Spare some time to take a look at my <a href="https://sakalya.notion.site/Sakalya-s-Portfolio-16f07ac0076d4097964f59e61e6812cc">portfolio</a>!</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakalya100&label=Profile%20views&color=0e75b6&style=flat" alt="sakalya100" /> </p>
 
