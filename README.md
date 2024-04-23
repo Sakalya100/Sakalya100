@@ -1,4 +1,5 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+![gitartwork](gitartwork.svg)
 
 <h3><i>Spare some time to take a look at my <a href="https://www.linkedin.com/in/sakalya-mitra/">portfolio</a>!</i></h3>
 
@@ -77,8 +78,10 @@ Last Updated: Monday, December 4th, 2023, 1:47:21 AM
  </table>
 
 # Experience
+- [Future Smart AI](https://www.futuresmart.ai/)
+  - <b>Data Science Intern (NLP)</b> - <b>Feb 2024 - Present</b>
 - [Scaler by InterviewBit](https://www.scaler.com/)
-  - <b>Data Science Intern</b> - <b>July 2022 - Present</b>
+  - <b>Data Science Intern</b> - <b>July 2022 - April 2024</b>
 - [Sivi (Previously Speakify)](https://www.mysivi.ai/) - <b>AI/ML Intern</b> - <b>July 2022 - August 2022</b>
 
 
@@ -88,7 +91,7 @@ Last Updated: Monday, December 4th, 2023, 1:47:21 AM
   - <b>Campus Lead</b> - <b>February 2021 - Present</b>
 
 # Projects
-
+- [Real-Time News Engine](https://github.com/Sakalya100/Real-Time-News-Engine)
 - [PhysicsBuddy - Your own pdf Chatbot](https://github.com/Sakalya100/Chatbot-using-Langchain)
 - [WhatsApp Chat Analyzer](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp)
 
