@@ -36,15 +36,13 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Sakalya100/JS-Tutorial](https://github.com/Sakalya100/js-tutorial-codes)
-2. 🎉 Merged PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
-3. 💪 Opened PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
-4. ⭐ Starred [snehil03july/mathpy](https://github.com/snehil03july/mathpy)
-5. 💪 Opened PR [#1085](https://github.com/Midway91/HactoberFest2023/pull/1085) in [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)
+1. 📔 Created new repository [Sakalya100/ai-retreat](https://github.com/Sakalya100/ai-retreat)
+2. 🎉 Merged PR [#74](https://github.com/huggingface/huggingface-llama-recipes/pull/74) in [HuggingFace Llama Recipes](https://github.com/huggingface/huggingface-llama-recipes)
+
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 4th, 2023, 1:47:21 AM
+Last Updated: Wednesday, October 16th, 2024, 18:42:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
