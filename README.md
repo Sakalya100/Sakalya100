@@ -1,7 +1,7 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 ![gitartwork](gitartwork.svg)
 
-<h3><i>Spare some time to take a look at my <a href="https://www.datascienceportfol.io/sakalyamitra">portfolio</a>!</i></h3>
+<h3><i>Spare some time to take a look at my <a href="https://sakalya100.github.io/">portfolio</a>!</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakalya100&label=Profile%20views&color=0e75b6&style=flat" alt="sakalya100" /> </p>
 
@@ -9,9 +9,9 @@
 
 # About myself
 
-A passionate individual who loves playing with data, demitsifying data secrets and modelling ML applications to predict whats data.I am a developer and table tennis player and sppedcuber by passion, an engineer by profession and a photographer by interest.
+A passionate individual who loves playing with data, demystifying data secrets and modelling ML applications to predict data. I am a developer, table tennis player and speedcuber by passion, an engineer by profession and a photographer by interest.
 
-My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
+My motto is being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 
 # My Stats
 
