@@ -38,6 +38,7 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [Sakalya100/ai-retreat](https://github.com/Sakalya100/ai-retreat)
 2. 🎉 Merged PR [#74](https://github.com/huggingface/huggingface-llama-recipes/pull/74) in [HuggingFace Llama Recipes](https://github.com/huggingface/huggingface-llama-recipes)
+3. 🎉 Merged PR [#153](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/153) in [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 <!--RECENT_ACTIVITY:end-->
 
