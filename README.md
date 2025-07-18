@@ -77,6 +77,8 @@ Last Updated: Wednesday, October 16th, 2024, 18:42:10 PM
  </table>
 
 # Experience
+- [TheAgentic](https://www.theagentic.ai/)
+  - <b>AI Engineer </b> - <b>April 2025 - Present</b>
 - [Future Smart AI](https://www.futuresmart.ai/)
   - <b>Data Science Intern (NLP)</b> - <b>Feb 2024 - Present</b>
 - [Scaler by InterviewBit](https://www.scaler.com/)
