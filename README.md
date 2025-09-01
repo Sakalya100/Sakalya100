@@ -80,7 +80,7 @@ Last Updated: Wednesday, October 16th, 2024, 18:42:10 PM
 - [TheAgentic](https://www.theagentic.ai/)
   - <b>AI Engineer </b> - <b>April 2025 - Present</b>
 - [Future Smart AI](https://www.futuresmart.ai/)
-  - <b>Data Science Intern (NLP)</b> - <b>Feb 2024 - Present</b>
+  - <b>Data Science Intern (NLP)</b> - <b>Feb 2024 - Mar 2025</b>
 - [Scaler by InterviewBit](https://www.scaler.com/)
   - <b>Data Science Intern</b> - <b>July 2022 - April 2024</b>
 - [Sivi (Previously Speakify)](https://www.mysivi.ai/) - <b>AI/ML Intern</b> - <b>July 2022 - August 2022</b>
