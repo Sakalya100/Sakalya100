@@ -60,7 +60,7 @@ Last Updated: Wednesday, October 16th, 2024, 18:42:10 PM
     <td>Integrated MTech in Computer Science Engineering Specialization in AI & ML</td>
     <td><a href="https://vitbhopal.ac.in/">VIT Bhopal University</a></td>
     <td>2025</td>
-    <td>9.61 CGPA (till 7th Semester)</td>
+    <td>9.67 CGPA <b>(Gold Medallist)</b></td>
   </tr>
   <tr>
     <td>Higher Secondary Certification</td>
@@ -89,7 +89,7 @@ Last Updated: Wednesday, October 16th, 2024, 18:42:10 PM
 # Positions of Responsibility
 
 - [GitHub Campus Expert](https://education.github.com/experts)
-  - <b>Campus Lead</b> - <b>February 2021 - Present</b>
+  - <b>Campus Lead</b> - <b>February 2021 - April 2024</b>
 
 # Projects
 - [Real-Time News Engine](https://github.com/Sakalya100/Real-Time-News-Engine)
